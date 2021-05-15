@@ -1,0 +1,115 @@
+[[Calcium]]
+arch = "aarch64"
+git-tree-sha1 = "6dd8eb402295d0b0eb8902458ac59beaff882f62"
+libc = "glibc"
+os = "linux"
+
+    [[Calcium.download]]
+    sha256 = "1f2a5fa1cc4fd11febfbe27b435d20891993bc048f666ce5fe30253e8f619cdb"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.aarch64-linux-gnu.tar.gz"
+[[Calcium]]
+arch = "aarch64"
+git-tree-sha1 = "5292f174569977df0567325f481ebd7580bd26b2"
+libc = "musl"
+os = "linux"
+
+    [[Calcium.download]]
+    sha256 = "c1dd548ee1955dfbc3ecf1f19e9c10be074a397108fa0b86d1f3d5061648989b"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.aarch64-linux-musl.tar.gz"
+[[Calcium]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "605706190a7d842fcace7be1a4b960cecf7fe0c1"
+libc = "glibc"
+os = "linux"
+
+    [[Calcium.download]]
+    sha256 = "7af8b9656794945cbcd329f0ebf937a759337231fb0c833625ea4786f1ffba39"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.armv7l-linux-gnueabihf.tar.gz"
+[[Calcium]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "34bfa11555ff4a21969d6cbb88b008eccd172e75"
+libc = "musl"
+os = "linux"
+
+    [[Calcium.download]]
+    sha256 = "169dad5fe25e46fd2473f076fce7a47a710502946cd71f520c17eb7464caf93b"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.armv7l-linux-musleabihf.tar.gz"
+[[Calcium]]
+arch = "i686"
+git-tree-sha1 = "4fcbc1fa72fe4e6dd80aa4f861baece3be68e0f0"
+libc = "glibc"
+os = "linux"
+
+    [[Calcium.download]]
+    sha256 = "e9392ee5e4362ea7f8240438d448a105e8554be8d5d09fe80ab800df9748aca1"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.i686-linux-gnu.tar.gz"
+[[Calcium]]
+arch = "i686"
+git-tree-sha1 = "05839aa9a78e6091733586a54f2847d925843f4b"
+libc = "musl"
+os = "linux"
+
+    [[Calcium.download]]
+    sha256 = "7aa7d7daac688e0f232148da4369a11e5234f293110ea089bd2ab5d0c99ebe10"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.i686-linux-musl.tar.gz"
+[[Calcium]]
+arch = "i686"
+git-tree-sha1 = "fd2ebc77a678382bef2f6c740ccbb9fd28c76ec6"
+os = "windows"
+
+    [[Calcium.download]]
+    sha256 = "6515c81fc52473c8581138bd967dcc9da77a615682f8dd9eec748459f18aa9de"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.i686-w64-mingw32.tar.gz"
+[[Calcium]]
+arch = "powerpc64le"
+git-tree-sha1 = "c459b32e3871a09639863ed8dda72c07b27f60ea"
+libc = "glibc"
+os = "linux"
+
+    [[Calcium.download]]
+    sha256 = "149bb8ea920d6d22dc70dd9c6623bdf675e99d853e4b668275f927f4ed9af8ab"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.powerpc64le-linux-gnu.tar.gz"
+[[Calcium]]
+arch = "x86_64"
+git-tree-sha1 = "f8d423d8e82dc8eaea35d759bc76065385e45aea"
+os = "macos"
+
+    [[Calcium.download]]
+    sha256 = "63406828aa81e92656fa1f1bcfa85417b424f2bf49cf672bb89334ea7001110f"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.x86_64-apple-darwin.tar.gz"
+[[Calcium]]
+arch = "x86_64"
+git-tree-sha1 = "d37bf4126550655625d3e495ed3b9cea94024bd4"
+libc = "glibc"
+os = "linux"
+
+    [[Calcium.download]]
+    sha256 = "baddadb8d1c3af3c5be02d1f801a045ccdca6a41582df18cff2fe732c1217871"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.x86_64-linux-gnu.tar.gz"
+[[Calcium]]
+arch = "x86_64"
+git-tree-sha1 = "e8f29350d2571a87c0e632ba9986d0ff03298f99"
+libc = "musl"
+os = "linux"
+
+    [[Calcium.download]]
+    sha256 = "82ab786588680cef4011350c2ccd0631f11b2608f26a0e993d5d38a691c48e42"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.x86_64-linux-musl.tar.gz"
+[[Calcium]]
+arch = "x86_64"
+git-tree-sha1 = "f92e450e70b5865f637f2ab01b1678de6ce798ed"
+os = "freebsd"
+
+    [[Calcium.download]]
+    sha256 = "82910709bacab9ec8bf40588b38a8b8bdd755cc026c2d856898cf19a81688bf5"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.x86_64-unknown-freebsd.tar.gz"
+[[Calcium]]
+arch = "x86_64"
+git-tree-sha1 = "f7647530aef56983045541bf8b43a3eedbdc6e23"
+os = "windows"
+
+    [[Calcium.download]]
+    sha256 = "936c72583a8b8bfb4bf9e8cc72be6443a1b58d759f5fb1a1efc7e09391d6eb39"
+    url = "https://github.com/JuliaBinaryWrappers/Calcium_jll.jl/releases/download/Calcium-v0.300.0+0/Calcium.v0.300.0.x86_64-w64-mingw32.tar.gz"
