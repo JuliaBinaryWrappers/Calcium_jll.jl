@@ -7,7 +7,7 @@ using Antic_jll
 using GMP_jll
 using MPFR_jll
 JLLWrappers.@generate_wrapper_header("Calcium")
-JLLWrappers.@declare_library_product(libcalcium, "@rpath/libcalcium-0.4.0.dylib")
+JLLWrappers.@declare_library_product(libcalcium, "@rpath/libcalcium-0.4.1.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(FLINT_jll, Arb_jll, Antic_jll, GMP_jll, MPFR_jll)
     JLLWrappers.@init_library_product(
