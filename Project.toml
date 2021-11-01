@@ -1,6 +1,6 @@
 name = "Calcium_jll"
 uuid = "fcfa6d1b-d8ce-59d5-8c0a-c0d7f69e4f40"
-version = "0.400.100+0"
+version = "0.400.101+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -15,7 +15,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.0"
-Antic_jll = "~0.200.500"
-Arb_jll = "~200.2000"
-FLINT_jll = "~200.800"
+julia = "1.6"
+Antic_jll = "~0.200.501"
+Arb_jll = "~200.2000.1"
+FLINT_jll = "~200.800.101"
